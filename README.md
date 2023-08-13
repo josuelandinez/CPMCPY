@@ -1,6 +1,6 @@
 # CPMCPY 
 
- ** Axiliary Field Quantum Monte Carlo ** code for the Hubbard Model with Periodic and Twisted Boundary conditions based on CPMC-Lab:
+ **Auxiliary Field Quantum Monte Carlo** code for the Hubbard Model with Periodic and Twisted Boundary conditions based on CPMC-Lab:
 
 homepage: [huynguyen.io/CPMC-Lab](https://www.huynguyen.io/CPMC-Lab).
 
