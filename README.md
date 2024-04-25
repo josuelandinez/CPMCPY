@@ -11,6 +11,6 @@ It is a Constrained Path Aulxiliary Field Quantum Monte Carlo code in python for
 
 The source code have the same structure that CPMC-Lab ported to python, the output data is saved in a npz file (numpy binary compressed files) the total energy and other parameters of the simulation. 
 
-The aim of this code is to provide a simple implementation of Auxiliary Field Monte Carlo that allows the user to experiment with new algorithms and features to improve the accuracy and performance of the AFQMC methods. 
+The aim of this code is to provide a simple implementation of Auxiliary Field Qunautm Monte Carlo that allows the user to experiment with new algorithms and features to improve the accuracy and performance of the AFQMC methods. 
 
-The code is currently under development new features and changes will be add constinously. 
+The code is currently under development new features and changes will be constinously added. 
