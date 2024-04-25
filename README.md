@@ -13,4 +13,4 @@ The source code have the same structure that CPMC-Lab ported to python, the outp
 
 The aim of this code is to provide a simple implementation of Auxiliary Field Monte Carlo that allows the user to experiment with new algorithms and features to improve the accuracy and performance of the AFQMC methods. 
 
-The code is currently under development new features will be continuously add until its first release. 
+The code is currently under development new features and changes will be add constinously. 
