@@ -1,4 +1,4 @@
-# CPMCPY: Constrained Path Monte Carlo Python suite 
+# CPMCPY: Constrained Path Monte Carlo in Python  
 
 CPMCPY is an **Auxiliary Field Quantum Monte Carlo** (AFQMC) code for simulation of the Hubbard Model with Periodic and Twisted Boundary conditions based on CPMC-Lab:
 
